@@ -26,9 +26,12 @@ Nosso jogo possui um sistema de gerenciamento de pontuação que mantém a conta
   &emsp;|-->antigos<br>
   &emsp;|Template_-_Projetos_de_Extensão nosso jogo1<br>
 |-->executáveis<br>
+  &emsp;|-->PI_JogoPI_LeaftPilot<br>
+  &emsp;|-->JogoPronto<br>
   &emsp;|-->PI_JogoLeaftPilot<br>
 |-->src<br>
-  &emsp;|-->PI_JogoLeaftPilot<br>
+  &emsp;|-->PI_JogoPI_LeaftPilot<br>
+  &emsp;|-->Assets<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
