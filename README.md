@@ -14,7 +14,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="LeaftPilot" border="0">
+<img src="Imagens/Imagem_TelaInicial.png" alt="LeaftPilot" border="0">
   Game by <a href="https://github.com/VickciV1102">Vitoria Leticia Maciel da Silva</a>, Brayan Yamilcar Choque Ceron, Felipe Alves de Marmo Pereira, João Victor Rezende Silva, <a href="https://unity.com/pt/download">Unity</a>
 </p>
 
